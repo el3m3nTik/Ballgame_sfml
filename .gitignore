@@ -1,9 +1,8 @@
 .idea
+build
 .vs
 Debug
 Release
-x64
 Game_sfml.vcxproj
-Game_sfml.vcxproj.filters
 Game_sfml.vcxproj.user
-build
+Game_sfml.vcxproj.filters
