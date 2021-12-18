@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Andre\Documents\GitHub\Ballgame_sfml\build\CMakeFiles\8fb4cfdffd7b04a82ad2484bcd08f357\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3A2DD6B3-826B-3F7D-8964-CC64C79C81F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
